@@ -15,5 +15,5 @@ Visualizando la tabla recientemente creada:
     SELECT * from radio_sample_data
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDQwMjA3MSw0MDI1NDQxNTldfQ==
+eyJoaXN0b3J5IjpbMTA4MDQwMjA3MV19
 -->
