@@ -9,6 +9,11 @@ Creando una tabla temporal con el contenido del archivo en el blob storage:
 
     %sql DROP  TABLE  IF  EXISTS radio_sample_data; CREATE  TABLE radio_sample_data USING  json OPTIONS ( path  "/mnt/mypath/{filename}.json" )
 
+Visualizando la tabla recientemente creada:
+
+    %sql
+    SELECT * from radio_sample_data
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNTQ0MTU5XX0=
+eyJoaXN0b3J5IjpbMTA4MDQwMjA3MSw0MDI1NDQxNTldfQ==
 -->
