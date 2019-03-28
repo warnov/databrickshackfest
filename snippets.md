@@ -5,6 +5,7 @@ Montando el blob storage en Databricks:
       mountPoint = "/mnt/mypath",
       extraConfigs = Map("fs.azure.account.key.{YOUR STORAGE ACCOUNT NAME}.blob.core.windows.net" -> "{YOUR STORAGE ACCOUNT ACCESS KEY}"))
 
+Crra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTI3Mzc4Ml19
+eyJoaXN0b3J5IjpbLTk4NDI5Mjc0LDEzNTkyNzM3ODJdfQ==
 -->
